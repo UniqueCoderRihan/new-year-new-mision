@@ -68,3 +68,32 @@
     font-family: 'Work Sans';
     padding-top: 10px;
 }
+
+/* .myPlansSection{
+   
+} */
+.planHeader{
+    font-family: 'Work Sans';
+    text-align: center;
+    padding-top: 140px;
+    font-size: 40px
+    
+
+}
+.planTofiqContainer{
+    display: flex;
+    padding-left: 230px;
+    padding-right: 229px;
+}
+.planTofiq{
+    padding-left: 130px;
+    font-family: 'Work Sans';
+    font-size: 20px;
+    color: #151414;
+}
+.planTofiqTitle{
+    font-family: 'Work Sans';
+}
+.planTofiqDescription{
+    font-family: 'Work Sans';
+}
