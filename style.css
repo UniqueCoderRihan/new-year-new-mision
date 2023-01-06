@@ -46,7 +46,7 @@
     width: 160px;
     height: 64px;
 }
-/* about Me */
+/* about Me style start */
 .about-me-section{
     display: flex;
     padding-top: 700px;
@@ -125,3 +125,33 @@
 .planTofiqDescription{
     font-family: 'Work Sans';
 }
+/* mindset section style */
+.mindset{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%) , url(./images/watch.png);
+    width: 1140px;
+    height: 300px;
+    margin-top: 120px;
+    margin-left: 231px;
+    border-radius: 8px;
+}
+
+.mindset-container{
+    color: #ffff;
+    font-family: 'Work Sans';
+    font-size: 40px;
+    padding-left: 50px;
+}
+.mindset-title{
+    padding-top: 20px;
+}
+.btn{
+    padding-left: 40px;
+    /* margin-bottom: 50px; */
+}
+.btn .btn-primary{
+    color: orangered;
+    background-color: #ffff;
+}
+/* mindset style end */
+
+/* footer area */
