@@ -155,3 +155,47 @@
 /* mindset style end */
 
 /* footer area */
+.footer{
+    display: flex;
+    width: 1600px;
+    height: 577px;
+    margin-top: 131px;
+    background: #151414;
+    
+}
+.footer-text-area{
+    padding-left: 231px;
+    color: #ffff;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+.footer-text-area-title{
+    padding-top: 50px;
+}
+footer-text-area-description{
+    padding-top: 30px;
+}
+.footer-form{
+    padding-right: 229px;
+    padding-left: 331px;
+    padding-top: 30px;
+}
+.footer-form-title{
+    padding-top: 50px;
+    color: #ffff;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.footer-form-description{
+    font-family: 'Work Sans';
+    font-size: 16px;
+}
+.footer-form-email{
+    margin-bottom: 50px;
+    width: 325px;
+height: 64px;
+}
