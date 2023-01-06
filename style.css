@@ -46,10 +46,40 @@
     width: 160px;
     height: 64px;
 }
+/* about Me */
+.about-me-section{
+    display: flex;
+    padding-top: 700px;
+    padding-left: 280px;
+    
+}
+.about-text{
+    margin-top: 250px;
+    color: #151414;
+}
+.about-text-title{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    color: black;
+    margin-left: 200px;
+}
+.about-text-description{
+    color: #444343;
+    font-size: 16px;
+    padding-top: 24px;
+    margin-bottom: 32px;
+    font-family: 'Work sans';
+    margin-left: 200px;
+}
+.about-img{
+    padding-right: 247px;
+    padding-top: 30px;
+}
 /* secound sction styles */
 .container{
     display: flex;
-    padding-top: 900px;
+    padding-top: 100px;
     padding-left: 280px;
     padding-right: 247px;
 }
@@ -69,9 +99,7 @@
     padding-top: 10px;
 }
 
-/* .myPlansSection{
-   
-} */
+/* myPlansSection */
 .planHeader{
     font-family: 'Work Sans';
     text-align: center;
