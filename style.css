@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* sir This is Header section Styles */
+.header-section{
+    background-image: url(./images/banner/banner2.png);
+    
+    position: absolute;
+    width: 1330px;
+    height: 809px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header-container{
+    text-align: center;
+    padding-left: 845px;
+    padding-top: 216px;
+    padding-right: 230px;
+}
+.header-heading{
+    font-family: 'Work sans';
+    color: #151414;
+    font-size: 40px;
+}
+.header-description{
+    color: #444343;
+    font-size: 16px;
+    padding-top: 24px;
+    margin-bottom: 32px;
+    font-family: 'Work sans';
+}
+
+.btn-primary{
+    font-family: 'Work Sans';
+    
+    font-weight: 600;
+    font-size: 25px;
+    color:#FFFF;
+    background: #F15B22;
+    border-radius: 5px;
+    padding: 10px,20px;
+    width: 160px;
+    height: 64px;
+}
+/* end header styles */
+
+/*  */
